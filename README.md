@@ -1,12 +1,3 @@
-# Better Quiz
-## A model for quizes in React.js
-
----
-
-Better Quiz is a quiz with the objective of being a model for future quizzes. Like any other quiz, it is characterized by its flexibility. However, Better Quiz goes further, allowing the question database to be separated by categories. Besides that, instead of having a bunch of alternatives for the user to click, Better Quiz only receives typed answers, and in order to make sure that the user typed it correctly, there's a bar of suggestions.
-
----
-
 ![badge](https://img.shields.io/github/watchers/wdpedroborges/better-quiz?style=social)
 ![badge](https://img.shields.io/github/stars/wdpedroborges/better-quiz?style=social)
 ![badge](https://img.shields.io/github/license/wdpedroborges/better-quiz)
@@ -15,11 +6,14 @@ Better Quiz is a quiz with the objective of being a model for future quizzes. Li
 ![badge](https://img.shields.io/badge/powered%20by-typescript-blue)
 ![badge](https://img.shields.io/badge/powered%20by-sass.js-blue)
 
----
+# Better Quiz
+## A model for quizes in React.js
+
+Better Quiz is a quiz with the objective of being a model for future quizzes. Like any other quiz, it is characterized by its flexibility. However, Better Quiz goes further, allowing the question database to be separated by categories. Besides that, instead of having a bunch of alternatives for the user to click, Better Quiz only receives typed answers, and in order to make sure that the user typed it correctly, there's a bar of suggestions.
 
 ## Live Demo
 
-[Click here to see it]((wdpedroborges.github.io/better-quiz))
+wdpedroborges.github.io/better-quiz
 
 ## Features
 
